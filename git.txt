@@ -1,0 +1,12 @@
+git inint => make a git repository
+git add . => add all files to stage 
+git status => see status of files
+git commit -m "messsage" => commit files of stage with a message
+git rm --cached -r . => remove all file from stage
+git diff => see what is changed in files
+git log => see commits with messages
+git log -p => see commits with changes
+git log --oneline => see comits in one line brifly
+git restore . => restore change to last commit
+git restore --staged . => unstaged all of files in stage and can restore
+git reset --hard 5fc0f1aaa9321f2c0886b44a0bb361d84b9b4c38 => rest to that id commit 
