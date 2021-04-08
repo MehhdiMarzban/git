@@ -13,3 +13,4 @@ git reset --hard 5fc0f1aaa9321f2c0886b44a0bb361d84b9b4c38 => rest to that id com
 git branch branchName => make a new branch
 git branch -a => show branch list
 git checkout branchName => switch to another branch 
+git merge branchName => first most going to destination target
