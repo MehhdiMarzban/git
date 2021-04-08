@@ -13,3 +13,7 @@ git restore --staged . => unstaged all of files in stage and can restore
 git reset --hard 5fc0f1aaa9321f2c0886b44a0bb361d84b9b4c38 => rest to that id commit 
 git checkout branchName => switch to another branch 
 git merge branchName => first most going to destination target
+git stash => make stash from new changes 
+git stash list => show list of stash 
+git stash clear => clear all stashs
+git stash drop stashName => delete a stash 
