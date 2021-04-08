@@ -20,3 +20,4 @@ git stash save "message of this stash"
 git stash list => show list of stash 
 git stash clear => clear all stashs
 git stash drop stashName => delete a stash 
+git stash show -p => show change in stash 
