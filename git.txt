@@ -1,3 +1,4 @@
+---------------------------------------------------------------------- GIT COMMANDS ---------------------------------------------------------------------
 git inint => make a git repository
 git add . => add all files to stage 
 git status => see status of files
