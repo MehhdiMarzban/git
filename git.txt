@@ -24,3 +24,5 @@ git stash drop stashName => delete a stash
 git stash show -p => show change in stash 
 git stash apply "stashName" => add a stash without delete the stash 
 git stash pop "stashName" => add a stash with delete after add 
+git remote add origin https://github.com/MehhdiMarzban/git.git => add address
+git push -u origin main => upload a branch to github
