@@ -27,3 +27,4 @@ git stash pop "stashName" => add a stash with delete after add
 git remote add origin https://github.com/MehhdiMarzban/git.git => add address
 git push -u origin main => upload a branch to github
 git pull origin => get last change from github
+git pull => this change from github
