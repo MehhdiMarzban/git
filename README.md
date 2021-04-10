@@ -1,1 +1,1 @@
-<h1 style="text-align: center"> This is a test </h1>
+<h1 style="color: #4040a1"> This is a test </h1>
